@@ -1,0 +1,7 @@
+SYNTHETIC EDUCATIONAL EVIDENCE — NOT A REAL SECURITY LOG
+Dataset: Enterprise IR Workbench demonstration
+Timestamp: 2026-10-30T08:12:00Z
+Host: FIN-WS-044
+Account: j.lee
+Event: simulated encoded PowerShell launch
+Disposition: synthetic training record; no production action taken
